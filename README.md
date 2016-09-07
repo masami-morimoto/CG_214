@@ -1,2 +1,2 @@
 # CG_214
-Repo for course work in Web page construction
+Repo for course work in Web page construction.
